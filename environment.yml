@@ -1,4 +1,4 @@
-name: bda-environment
+name: buildingenergytutorials
 
 channels:
   - conda-forge
@@ -12,3 +12,4 @@ dependencies:
   - statsmodels
   - dask
   - xlrd
+  - openpyxl
