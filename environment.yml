@@ -1,0 +1,14 @@
+name: bda-environment
+
+channels:
+  - conda-forge
+
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - bokeh
+  - statsmodels
+  - dask
+  - xlrd
