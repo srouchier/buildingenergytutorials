@@ -13,3 +13,4 @@ dependencies:
   - dask
   - xlrd
   - openpyxl
+  - seaborn
