@@ -1,0 +1,16 @@
+name: buildingenergytutorials
+
+channels:
+  - conda-forge
+
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - bokeh
+  - statsmodels
+  - dask
+  - xlrd
+  - openpyxl
+  - seaborn
